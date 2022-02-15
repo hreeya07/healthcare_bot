@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'hreeya'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D01207911B7B49D6B93D060A5B161E48 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6E96CBC968DC49579DADA6A2022D9907 }}
